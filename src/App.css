@@ -1,0 +1,15 @@
+.text-center{
+  color:black;
+  margin-top: 100px;
+}
+
+.list{
+  display: inline-block;
+  margin: 15px;
+  padding: 20px;
+  background-color: #cfcfcf;
+  border-radius: 12px;
+}
+.btn{
+  margin-right: 15px;
+}
